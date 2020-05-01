@@ -1,0 +1,271 @@
+Blood Pressure (bin),Gender,Thal ,Exercise-,Blood Sugar-,Chest Pain-,St Segment-,Disease 
+130,Male,Normal,No,No,High,Elevated,Heart Disease
+110,Female,Reversable Defect,No,No,Medium,Elevated,Normal
+120,Male,Reversable Defect,No,No,Low,Normal,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Normal
+120,Female,Normal,Yes,No,Low,Normal,Normal
+120,Male,Reversable Defect,No,No,High,Normal,Normal
+130,Male,Fixed Defect,Yes,Yes,Medium,Elevated,Heart Disease
+110,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+140,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+150,Female,Reversable Defect,No,No,High,Elevated,Heart Disease
+130,Male,Reversable Defect,No,No,High,Elevated,Normal
+140,Male,Reversable Defect,Yes,No,High,Normal,Normal
+140,Male,Normal,No,No,Medium,Normal,Normal
+130,Male,Normal,No,No,Normal,Elevated,Heart Disease
+120,Female,Normal,No,No,High,Normal,Normal
+110,Female,Normal,No,No,High,Elevated,Normal
+140,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+140,Male,Reversable Defect,Yes,Yes,High,Depressed,Heart Disease
+110,Male,Normal,Yes,No,Normal,Elevated,Normal
+140,Male,Reversable Defect,Yes,No,Normal,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,Low,Elevated,Normal
+110,Male,Normal,No,No,High,Elevated,Normal
+110,Male,Normal,No,No,High,Normal,Normal
+130,Female,Normal,Yes,Yes,Low,Normal,Normal
+130,Female,Normal,No,No,Medium,Normal,Normal
+130,Female,Normal,Yes,No,High,Elevated,Normal
+120,Female,Normal,No,No,Medium,Normal,Normal
+110,Male,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+110,Female,Normal,No,Yes,Medium,Normal,Normal
+120,Male,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+160,Male,Fixed Defect,No,No,High,Normal,Normal
+120,Female,Normal,No,No,Medium,Normal,Normal
+170,Male,Reversable Defect,Yes,No,High,Depressed,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Reversable Defect,Yes,Yes,High,Normal,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+160,Male,Normal,No,No,Normal,Normal,Heart Disease
+130,Male,Normal,No,No,Medium,Normal,Normal
+120,Male,Normal,No,No,High,Normal,Normal
+150,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+120,Female,Normal,No,No,High,Normal,Normal
+130,Male,Normal,Yes,No,Medium,Normal,Normal
+100,Male,Reversable Defect,No,Yes,Low,Normal,Normal
+120,Male,Fixed Defect,No,Yes,Medium,Elevated,Heart Disease
+140,Male,Normal,No,Yes,Medium,Normal,Normal
+110,Male,Normal,No,No,Medium,Normal,Heart Disease
+110,Male,Normal,No,No,High,Normal,Heart Disease
+160,Male,Fixed Defect,Yes,No,Low,Elevated,Heart Disease
+150,Female,Reversable Defect,No,No,High,Elevated,Heart Disease
+130,Male,Fixed Defect,Yes,No,High,Elevated,Heart Disease
+120,Male,Normal,No,Yes,Low,Normal,Normal
+140,Female,Normal,No,Yes,Medium,Normal,Normal
+140,Female,Normal,No,No,Low,Normal,Normal
+130,Female,Normal,No,No,Low,Elevated,Normal
+100,Female,Normal,No,No,Low,Normal,Normal
+130,Male,Normal,Yes,No,High,Elevated,Heart Disease
+120,Female,Normal,No,Yes,Medium,Normal,Normal
+170,Female,Normal,Yes,No,High,Elevated,Heart Disease
+120,Male,Reversable Defect,No,No,Low,Elevated,Heart Disease
+150,Male,Reversable Defect,No,Yes,Medium,Normal,Normal
+130,Female,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+120,Male,Normal,No,No,Medium,Normal,Normal
+150,Female,Normal,No,No,Normal,Normal,Normal
+140,Male,Fixed Defect,No,Yes,Normal,Depressed,Normal
+150,Male,Fixed Defect,Yes,No,High,Elevated,Heart Disease
+140,Male,Normal,Yes,No,High,Normal,Normal
+130,Female,Normal,No,Yes,Low,Normal,Heart Disease
+110,Female,Normal,No,No,Medium,Elevated,Normal
+100,Male,Normal,No,No,Medium,Normal,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+120,Female,Normal,Yes,No,High,Normal,Normal
+150,Male,Normal,No,No,Low,Normal,Normal
+140,Female,Normal,No,No,Medium,Elevated,Normal
+100,Female,Normal,No,No,High,Normal,Normal
+140,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+100,Male,Normal,Yes,No,High,Elevated,Normal
+90,Female,Normal,No,No,Medium,Normal,Normal
+120,Female,Normal,No,No,Medium,Elevated,Normal
+120,Male,Normal,No,No,Low,Normal,Normal
+140,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+150,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+130,Male,Normal,No,No,Medium,Elevated,Normal
+110,Male,Fixed Defect,Yes,No,High,Elevated,Normal
+140,Male,Normal,No,No,Normal,Normal,Normal
+120,Male,Normal,No,Yes,Low,Normal,Normal
+170,Male,Reversable Defect,No,No,Normal,Depressed,Normal
+120,Female,Normal,No,No,Low,Normal,Normal
+150,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+140,Male,Normal,Yes,No,Low,Normal,Normal
+130,Female,Normal,No,No,High,Normal,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+110,Male,Normal,Yes,No,High,Elevated,Heart Disease
+120,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+110,Male,Normal,Yes,No,High,Elevated,Heart Disease
+120,Male,Normal,No,No,High,Elevated,Normal
+100,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+140,Female,Reversable Defect,No,No,Medium,Normal,Normal
+120,Female,Normal,No,No,Low,Normal,Normal
+100,Female,Normal,No,No,Medium,Elevated,Normal
+120,Male,Normal,No,No,High,Elevated,Heart Disease
+130,Female,Normal,No,No,High,Normal,Normal
+160,Male,Reversable Defect,No,Yes,High,Elevated,Heart Disease
+130,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+120,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+100,Male,Normal,Yes,No,Medium,Elevated,Normal
+150,Female,Reversable Defect,No,No,High,Elevated,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+110,Female,Normal,No,No,Low,Elevated,Normal
+180,Female,Normal,Yes,No,High,Elevated,Heart Disease
+110,Male,Normal,No,No,Low,Normal,Normal
+150,Female,Normal,No,No,High,Normal,Heart Disease
+130,Female,Normal,No,Yes,Medium,Normal,Normal
+120,Male,Normal,No,No,Low,Normal,Normal
+130,Female,Normal,No,No,Low,Elevated,Normal
+120,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+200,Female,Reversable Defect,Yes,Yes,High,Depressed,Heart Disease
+150,Female,Normal,No,No,Normal,Depressed,Normal
+130,Male,Reversable Defect,Yes,Yes,High,Depressed,Heart Disease
+120,Male,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+120,Male,Normal,Yes,No,High,Elevated,Heart Disease
+150,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+160,Female,Normal,No,No,Medium,Normal,Normal
+120,Male,Normal,No,No,Medium,Depressed,Normal
+160,Female,Normal,No,No,Medium,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Female,Normal,No,No,Medium,Elevated,Normal
+130,Male,Normal,No,No,Low,Normal,Normal
+110,Male,Reversable Defect,Yes,Yes,High,Normal,Heart Disease
+100,Female,Normal,Yes,No,High,Elevated,Heart Disease
+110,Male,Normal,Yes,No,High,Normal,Heart Disease
+140,Male,Normal,No,No,High,Normal,Normal
+120,Male,Normal,Yes,No,High,Depressed,Heart Disease
+150,Male,Reversable Defect,No,No,Medium,Normal,Normal
+140,Female,Normal,Yes,No,Medium,Depressed,Normal
+150,Female,Normal,No,No,Medium,Normal,Normal
+120,Male,Normal,Yes,Yes,High,Elevated,Heart Disease
+110,Female,Normal,No,No,Low,Normal,Normal
+130,Male,Reversable Defect,Yes,No,High,Normal,Normal
+140,Male,Fixed Defect,No,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,High,Normal,Normal
+140,Male,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+120,Male,Normal,Yes,No,Normal,Normal,Normal
+190,Male,Reversable Defect,No,No,Low,Normal,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+110,Male,Normal,No,No,High,Normal,Heart Disease
+110,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Reversable Defect,No,No,Medium,Normal,Heart Disease
+110,Female,Normal,Yes,No,Medium,Normal,Normal
+110,Male,Normal,No,No,Medium,Normal,Normal
+120,Female,Normal,No,No,Medium,Elevated,Normal
+100,Female,Normal,No,No,Medium,Normal,Normal
+130,Female,Normal,No,No,High,Elevated,Normal
+130,Female,Normal,No,No,Medium,Normal,Normal
+100,Female,Normal,No,No,Low,Normal,Normal
+140,Male,Reversable Defect,Yes,No,High,Depressed,Heart Disease
+120,Male,Normal,No,No,Low,Normal,Normal
+120,Male,Reversable Defect,No,No,Normal,Elevated,Normal
+170,Female,Reversable Defect,Yes,Yes,High,Elevated,Heart Disease
+120,Male,Reversable Defect,Yes,No,Normal,Elevated,Heart Disease
+150,Female,Normal,Yes,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,Low,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+110,Male,Reversable Defect,No,No,High,Normal,Normal
+180,Female,Normal,Yes,No,High,Normal,Normal
+110,Female,Normal,No,No,High,Normal,Normal
+130,Male,Normal,No,Yes,Medium,Depressed,Normal
+130,Female,Normal,Yes,No,High,Elevated,Normal
+130,Male,Normal,No,Yes,Normal,Elevated,Heart Disease
+160,Male,Normal,No,Yes,Normal,Elevated,Normal
+140,Male,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+100,Male,Normal,Yes,No,High,Elevated,Heart Disease
+120,Female,Normal,No,No,Medium,Elevated,Normal
+110,Male,Normal,No,No,Normal,Normal,Normal
+130,Female,Normal,No,Yes,High,Elevated,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+150,Male,Normal,No,No,Medium,Elevated,Heart Disease
+120,Male,Reversable Defect,No,Yes,High,Elevated,Heart Disease
+120,Male,Normal,No,No,Medium,Normal,Normal
+120,Male,Reversable Defect,No,Yes,Medium,Depressed,Normal
+130,Female,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+110,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+100,Female,Normal,No,No,High,Elevated,Normal
+130,Male,Normal,No,Yes,Medium,Normal,Normal
+130,Male,Normal,No,No,Medium,Normal,Normal
+130,Male,Fixed Defect,Yes,No,High,Elevated,Heart Disease
+100,Male,Reversable Defect,No,Yes,High,Normal,Normal
+140,Female,Normal,No,No,High,Elevated,Normal
+160,Male,Reversable Defect,Yes,No,Medium,Elevated,Heart Disease
+140,Male,Normal,No,No,High,Normal,Normal
+140,Male,Reversable Defect,Yes,No,High,Depressed,Heart Disease
+100,Male,Reversable Defect,No,No,Low,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+120,Male,Normal,No,Yes,Medium,Normal,Normal
+130,Female,Normal,No,No,Low,Elevated,Normal
+100,Female,Normal,No,No,High,Elevated,Normal
+110,Female,Normal,No,No,Medium,Elevated,Normal
+140,Female,Normal,No,No,Normal,Normal,Normal
+120,Male,Normal,Yes,No,High,Normal,Heart Disease
+110,Male,Reversable Defect,No,No,Medium,Normal,Normal
+120,Male,Reversable Defect,No,No,High,Normal,Heart Disease
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+160,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+150,Male,Reversable Defect,No,Yes,Normal,Elevated,Normal
+100,Female,Normal,No,No,Medium,Normal,Normal
+100,Male,Reversable Defect,Yes,No,Medium,Elevated,Normal
+120,Male,Reversable Defect,Yes,No,Medium,Elevated,Heart Disease
+130,Male,Normal,No,No,Medium,Depressed,Normal
+170,Male,Reversable Defect,No,No,Normal,Elevated,Heart Disease
+120,Male,Normal,No,Yes,Medium,Elevated,Normal
+120,Female,Normal,No,No,Medium,Elevated,Normal
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,Low,Normal,Normal
+130,Female,Normal,No,No,Low,Normal,Normal
+130,Female,Normal,No,No,Medium,Normal,Normal
+90,Male,Reversable Defect,Yes,No,Medium,Normal,Normal
+120,Male,Reversable Defect,No,No,Medium,Elevated,Normal
+120,Male,Normal,No,No,Low,Normal,Normal
+110,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+150,Male,Normal,No,No,Medium,Normal,Normal
+130,Male,Reversable Defect,Yes,Yes,High,Normal,Heart Disease
+130,Female,Normal,No,No,High,Normal,Normal
+130,Male,Fixed Defect,No,No,Low,Elevated,Normal
+130,Female,Reversable Defect,No,No,Medium,Elevated,Heart Disease
+130,Female,Reversable Defect,Yes,Yes,High,Elevated,Heart Disease
+150,Female,Normal,No,Yes,Normal,Normal,Normal
+110,Male,Fixed Defect,No,No,Normal,Elevated,Normal
+140,Female,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+110,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+110,Male,Normal,No,No,High,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+130,Male,Reversable Defect,No,No,Medium,Elevated,Normal
+160,Female,Reversable Defect,No,No,High,Depressed,Heart Disease
+130,Female,Normal,No,No,High,Normal,Normal
+120,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,Medium,Normal,Normal
+120,Male,Normal,No,No,Low,Normal,Normal
+180,Male,Reversable Defect,Yes,Yes,Medium,Elevated,Heart Disease
+140,Male,Normal,No,No,Medium,Normal,Normal
+130,Female,Normal,No,No,High,Elevated,Normal
+140,Female,Normal,No,No,High,Depressed,Heart Disease
+140,Female,Normal,No,No,Medium,Normal,Normal
+130,Male,Reversable Defect,Yes,No,High,Normal,Heart Disease
+110,Male,Fixed Defect,No,No,High,Normal,Heart Disease
+150,Female,Normal,No,No,Medium,Normal,Normal
+140,Male,Normal,No,No,Medium,Elevated,Heart Disease
+140,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+120,Male,Reversable Defect,No,No,High,Elevated,Heart Disease
+130,Male,Normal,No,No,Low,Normal,Normal
+110,Male,Normal,No,No,High,Normal,Heart Disease
+110,Male,Normal,No,No,Medium,Normal,Normal
+150,Male,Normal,No,Yes,Medium,Normal,Normal
+160,Female,Normal,No,No,Low,Normal,Normal
+150,Male,Normal,Yes,Yes,Medium,Elevated,Normal
+130,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+140,Male,Normal,No,No,Medium,Normal,Heart Disease
+150,Male,Normal,No,No,High,Normal,Normal
+120,Female,Normal,No,No,Medium,Normal,Normal
+130,Male,Reversable Defect,Yes,No,High,Elevated,Heart Disease
+120,Male,Normal,No,No,Low,Elevated,Heart Disease
+130,Male,Normal,No,No,Low,Normal,Normal
+110,Male,Reversable Defect,No,No,Low,Depressed,Heart Disease
+170,Male,Reversable Defect,No,Yes,Medium,Normal,Normal
+120,Male,Reversable Defect,No,No,Low,Normal,Normal
+140,Female,Normal,No,No,Low,Elevated,Normal
+140,Male,Fixed Defect,No,No,High,Elevated,Normal
+160,Male,Normal,Yes,No,High,Elevated,Heart Disease
