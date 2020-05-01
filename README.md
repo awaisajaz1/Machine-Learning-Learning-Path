@@ -1,4 +1,4 @@
-# Machine-Learning-Learning-Path
+# Machine-Learning-Learning-Path(Python/R)
 
 # Types of machine learning Algorithms
 
